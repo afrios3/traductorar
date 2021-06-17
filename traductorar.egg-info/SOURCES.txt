@@ -1,0 +1,13 @@
+README.md
+setup.py
+traductorar/__init__.py
+traductorar/__main__.py
+traductorar/main.py
+traductorar.egg-info/PKG-INFO
+traductorar.egg-info/SOURCES.txt
+traductorar.egg-info/dependency_links.txt
+traductorar.egg-info/entry_points.txt
+traductorar.egg-info/requires.txt
+traductorar.egg-info/top_level.txt
+traductorar/matematicas/__init__.py
+traductorar/matematicas/basico.py
