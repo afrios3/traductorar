@@ -6,8 +6,8 @@ authors = ["Adrian Rios <fernandoadrianr1990@gmail.com>"]
 keywords = ["traductor"]
 readme = "README.md"
 license = "MIT"
-homepage = "https://github.com/afrios3/package_name"
-repository = "https://github.com/afrios3/package_name"
+homepage = "https://github.com/afrios3/traductorar.git"
+repository = "https://github.com/afrios3/traductorar.git"
 include = [
     "LICENSE",
     ]
